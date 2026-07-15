@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-kufk2h.privatetalks.online/sitemap.xml
